@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("TransactionAggregator")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2707e2c534007aef5db2bdfdf1545a9ea096212b")]
 [assembly: System.Reflection.AssemblyProductAttribute("TransactionAggregator")]
 [assembly: System.Reflection.AssemblyTitleAttribute("TransactionAggregator")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
