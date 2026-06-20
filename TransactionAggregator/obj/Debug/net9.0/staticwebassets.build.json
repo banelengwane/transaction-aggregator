@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "2A3Y+bt36pgfTBZUMrjgqvtXTDmEcJebsadH3op84ZY=",
+  "Source": "TransactionAggregator",
+  "BasePath": "_content/TransactionAggregator",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
